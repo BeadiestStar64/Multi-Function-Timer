@@ -1,0 +1,4 @@
+name: MultiFunction-Timer
+version: '${project.version}'
+main: multifunctiontimer.multifunctiontimer.MultiFunctionTimer
+api-version: 1.19
